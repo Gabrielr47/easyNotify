@@ -1,6 +1,6 @@
 ![easyNotify is a simple plugin for jQuery that allow you to send notification using HTML5 API.](https://s14.postimg.io/qmbt7x3ep/easy_Notify.png)
 <h2>
-<a name="installation" class="anchor" href="#installation"><span class="mini-icon mini-icon-link"></span></a>Web Notifications Support</h2>
+<a name="support" class="anchor" href="#installation"><span class="mini-icon mini-icon-link"></span></a>Support</h2>
 
 ![easyNotify is a simple plugin for jQuery that allow you to send notification using HTML5 API.](https://s10.postimg.org/61sjyvywp/Sem_t_tulo.png)
 <h2>
