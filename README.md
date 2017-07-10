@@ -40,6 +40,7 @@ $("#easyNotify").easyNotify(options);
 ```
 
 <p>Functions can be pass by param to run on methods like onclose</p>
+
 ```javascript
 var myCloseInfo = function(){
     alert('this is a callback function that runs after close the notification.');
