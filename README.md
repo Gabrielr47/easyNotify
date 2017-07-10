@@ -25,6 +25,7 @@
 $("#easyNotify").easyNotify(); // JS
 ```
 <p>Options can be pass by object like:</p>
+
 ```javascript
 var options = {
       title: "Notificação",
@@ -37,6 +38,7 @@ var options = {
 
 $("#easyNotify").easyNotify(options);
 ```
+
 <p>Functions can be pass by param to run on methods like onclose</p>
 ```javascript
 var myCloseInfo = function(){
