@@ -1,8 +1,8 @@
-<h2>easyNotify is a simple plugin for jQuery that allow you to send notification using HTML5 API.</h2>
+![easyTable is a simple plugin for jQuery to send notifications.](https://s22.postimg.org/qxsb6kd5d/easy_Notify.png)
 <h2>
 <a name="support" class="anchor" href="#installation"><span class="mini-icon mini-icon-link"></span></a>Support</h2>
-<h2>
 
+![easyTable is a simple plugin for jQuery to send notifications.](https://s21.postimg.org/tahuvspwn/caniuse.fw.png)
 <h2>
 <a name="installation" class="anchor" href="#installation"><span class="mini-icon mini-icon-link"></span></a>Installation</h2>
 
