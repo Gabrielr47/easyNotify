@@ -60,7 +60,7 @@ $("#easyNotify").easyNotify(options);
 ```
 <h2>
 <a name="demo" class="anchor" href="#demo"><span class="mini-icon mini-icon-link"></span></a>Demo</h2>
-<p><strong><a href="https://jsfiddle.net/gabrielr47/03rxc6n9/4/">easyNotify</a></strong> </p>
+<p><strong><a href="https://jsfiddle.net/gabrielr47/03rxc6n9/26/">easyNotify</a></strong> </p>
 <h2>
 <a name="authors" class="anchor" href="#authors"><span class="mini-icon mini-icon-link"></span></a>Author</h2>
 
